@@ -58,9 +58,9 @@ oop-login-system/
 
 ## 🛠️ Features Implemented
 - Object-oriented programming with C++ classes:
-- - reg – registration
-- - login – login & credential check
-- - for_pass – forgot password flow
+  - reg – registration
+  - login – login & credential check
+  - for_pass – forgot password flow
 - File handling using fstream
 - Line-by-line reading & string comparison
 - Console-based menu system
