@@ -48,7 +48,7 @@ This console application performs the following operations:
 ```text
 oop-login-system/
 ├── docs/
-│   └── OOP_Login_Case_Study.docx
+│   └── OOP_Login_Case_Study.pdf
 |   └── sample_run.png
 ├── src/
 │   └── login_app.cpp
